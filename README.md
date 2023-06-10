@@ -49,8 +49,10 @@ print(list_of_nums)
 ```
 
 ## Output:
+i)	#Selection Sort
 ![image](https://github.com/Aswinth21/Sorting-Algorithm/assets/120236638/9bc94aa1-f440-4f30-b02b-118b4b98e4af)
 
+ii)	#Insertion Sort
 ![image](https://github.com/Aswinth21/Sorting-Algorithm/assets/120236638/27c5301e-b93e-48ad-b8d0-b4fe1c5efbce)
 
 
